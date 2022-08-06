@@ -13,12 +13,12 @@ bind
 #brltty
 broadcom-wl-dkms
 btrfs-progs
-#clonezilla
+clonezilla
 #cloud-init
 #crda
 cryptsetup
 #darkhttpd
-#ddrescue
+ddrescue
 dhclient
 #dhcpcd
 diffutils
@@ -318,7 +318,7 @@ kvantum
 asciinema
 bash-completion
 #baobab
-#bat
+bat
 #catfish
 #cronie
 dconf-editor
